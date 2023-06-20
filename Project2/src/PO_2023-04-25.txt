@@ -1,0 +1,9 @@
+PO 
+Number of Candidates: 6
+Pike, D 33.33%
+Foster, D 22.22%
+Deutsch, R 0.00%
+Borg, R 22.22%
+Jones, R 11.11%
+Smith, I 11.11%
+Number of Ballots: 9

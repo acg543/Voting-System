@@ -1,0 +1,6 @@
+.DS_Store
+
+# Writeup says the instructors "will compile the code so only provide the program files with the code"
+# So we ignore the compiled class files
+*.class
+.vscode/settings.json

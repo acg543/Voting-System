@@ -1,0 +1,9 @@
+CPL 
+Number of Candidates: 6
+Democratic 24
+Reublican 2
+New Wave 0
+Reform 2
+Green 1
+Independent 1
+Number of Ballots: 30

@@ -1,0 +1,8 @@
+IR 
+Number of Candidates: 4
+Rosen (D) 6
+Kleinberg (R) 0
+Chou (I) 4
+Royce (L) 1
+Number of Ballots: 11
+Order of Removal: Royce (L) 
